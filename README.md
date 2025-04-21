@@ -6,6 +6,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
+### Dummy API hosted at db.json
+- use `npx json-server --watch db.json --port 3001`
+- won't work without running this dummy server as the db won't be up
+
 ### `npm start`
 
 Runs the app in the development mode.\

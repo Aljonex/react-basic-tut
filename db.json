@@ -1,0 +1,10 @@
+{
+    "profile" : {
+        "firstName": "Alex",
+        "lastName": "Jones"
+    },
+    "hobbies" : {
+        "firstHobby": "Being west",
+        "secondHobby": "Fishing, can you belee dat"
+    }
+}

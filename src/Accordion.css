@@ -1,0 +1,10 @@
+.accordion .label-text {
+    padding: 10px;
+    font-weight: bold;
+    color: red;
+    cursor: pointer;
+}
+
+.accordion .label-text:hover {
+    background-color: #ddd;
+}
